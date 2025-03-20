@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jazthescientist
 - 👀 I’m interested in bioinformatics 
-- 🌱 I’m currently learning everything I can 
+- 🌱 I’m currently learning everything I can :)
 - 💞️ I’m looking to collaborate on metagenomic analysis 
 - 📫 How to reach me jazlynnbaile@umass.edu 
 - 😄 Pronouns: she/her
